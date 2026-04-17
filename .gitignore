@@ -1,0 +1,17 @@
+# Never push API keys or secrets
+.env
+*.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+*-env/
+venv/
+env/
+
+# Generated outputs (optional - remove lines below if you want to push PDFs)
+*.pdf
+*.json
