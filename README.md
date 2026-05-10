@@ -1,10 +1,10 @@
-# Eden AI — Benchmark: LLMLingua & Caveman Mode
+# Eden AI  Benchmark: LLMLingua & Caveman Mode
 
 Benchmarking two token compression techniques across GPT-5, Gemini Flash 2.0, and Smart Routing on Eden AI.
 
 ## Tools Tested
-- **LLMLingua** — Compresses input prompts before sending (Microsoft)
-- **Caveman Mode** — Instructs the model to respond in ultra-terse fragments
+- **LLMLingua**  Compresses input prompts before sending (Microsoft)
+- **Caveman Mode**  Instructs the model to respond in ultra-terse fragments
 
 ## Models
 - GPT-5
